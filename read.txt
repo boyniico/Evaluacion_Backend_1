@@ -1,0 +1,3 @@
+Comando para dar permisos al venv:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
