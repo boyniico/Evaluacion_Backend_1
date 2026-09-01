@@ -28,8 +28,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'consolApp',
-    'gameApp',
+    'books_catalog',
+    'music_catalog'
 ]
 
 MIDDLEWARE = [

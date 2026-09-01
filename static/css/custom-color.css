@@ -1,0 +1,72 @@
+/* ==========================================
+   PASTEL VAPORWAVE / VIOLET COLOR PALETTE
+   ========================================== */
+
+/* 1. BACKGROUNDS */
+.custom-color-bg {
+    background-color: #F8F9FA; /* Soft Light Gray/Cream - Main page background */
+}
+
+.custom-color-header {
+    background-color: #C4C1E0; /* Soft Lavender - Section headers and banners */
+}
+
+.custom-color-dark {
+    background-color: #2A2438; /* Midnight Violet - Navbar and footer */
+}
+
+.custom-color-accent {
+    background-color: #A084DC; /* Pastel Violet - Highlights and badges */
+}
+
+.custom-color-card {
+    background-color: #FFFFFF; /* Pure White - Cards background */
+}
+
+
+/* 2. TYPOGRAPHY */
+.custom-color-text-dark {
+    color: #2A2438; /* Midnight Violet - Primary body text and headings */
+}
+
+.custom-color-text-muted {
+    color: #6C5B7B; /* Muted Purple - Secondary text and subtitles */
+}
+
+.custom-color-text-light {
+    color: #F8F9FA; /* Soft Cream - Text on dark backgrounds */
+}
+
+
+/* 3. BORDERS */
+.custom-color-border-accent {
+    border-color: #A084DC !important; /* Pastel Violet border for cards */
+}
+
+.custom-color-border-dark {
+    border-color: #2A2438 !important; /* Midnight Violet border */
+}
+
+
+/* 4. BUTTONS & STATES */
+.custom-color-btn-primary {
+    background-color: #6C5CE7; /* Vibrant Iris Violet - Primary action buttons */
+    color: #FFFFFF;
+    border: none;
+}
+
+.custom-color-btn-primary:hover {
+    background-color: #A084DC; /* Pastel Violet hover state */
+    color: #FFFFFF;
+}
+
+.custom-color-btn-accent {
+    background-color: #A8E6CF; /* Soft Mint Green - Secondary/Accent buttons */
+    color: #2A2438;
+    border: none;
+}
+
+.custom-color-btn-accent:hover {
+    background-color: #6C5CE7;
+    color: #FFFFFF;
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "genre": "Realismo Mágico",
+    "image": "images/books/cien-anios-de-soledad.jpg",
+    "stock": 12,
+    "price": 18990
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Distopía / Ciencia Ficción",
+    "image": "images/books/1984.jpg",
+    "stock": 0,
+    "price": 11990
+  },
+  {
+    "id": 3,
+    "title": "Binding 13",
+    "author": "Chloe Walsh",
+    "year": 2018,
+    "genre": "Romance / Juvenil",
+    "image": "images/books/binding-13.jpg",
+    "stock": 8,
+    "price": 22990
+  },
+  {
+    "id": 4,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "genre": "Ciencia Ficción",
+    "image": "images/books/fahrenheit-451.jpg",
+    "stock": 15,
+    "price": 12990
+  },
+  {
+    "id": 5,
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "year": 1944,
+    "genre": "Cuentos / Antología",
+    "image": "images/books/ficciones.jpg",
+    "stock": 4,
+    "price": 14990
+  },
+  {
+    "id": 6,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "Literatura Infantil / Filosofía",
+    "image": "images/books/the-little-prince.jpg",
+    "stock": 18,
+    "price": 9990
+  },
+  {
+    "id": 7,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "genre": "Novela Psicológica",
+    "image": "images/books/crimen-y-castigo.jpg",
+    "stock": 3,
+    "price": 16990
+  },
+  {
+    "id": 8,
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "year": 1955,
+    "genre": "Realismo Mágico",
+    "image": "images/books/pedro-paramo.jpg",
+    "stock": 6,
+    "price": 11990
+  },
+  {
+    "id": 9,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "Ciencia Ficción / Ópera Espacial",
+    "image": "images/books/dune.jpg",
+    "stock": 11,
+    "price": 21990
+  },
+  {
+    "id": 10,
+    "title": "Hopeless",
+    "author": "Colleen Hoover",
+    "year": 2012,
+    "genre": "Romance / Juvenil",
+    "image": "images/books/hopeless.jpg",
+    "stock": 5,
+    "price": 17990
+  }
+]

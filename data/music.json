@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "year": 2013,
+    "genre": "Electronica / Disco",
+    "image": "images/music/random-access-memories.webp",
+    "stock": 67,
+    "price": 16990
+  },
+  {
+    "id": 2,
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "year": 2015,
+    "genre": "Rock Psicodélico / Synth-pop",
+    "image": "images/music/currents.webp",
+    "stock": 20,
+    "price": 15990
+  },
+  {
+    "id": 3,
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "genre": "Rock Progressivo",
+    "image": "images/music/the-dark-side-of-the-moon.webp",
+    "stock": 0,
+    "price": 14990
+  },
+  {
+    "id": 4,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969,
+    "genre": "Rock / Pop",
+    "image": "images/music/abbey-road.webp",
+    "stock": 5,
+    "price": 14990
+  },
+  {
+    "id": 5,
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "genre": "Soft Rock / Pop Rock",
+    "image": "images/music/rumours.webp",
+    "stock": 13,
+    "price": 13990
+  },
+  {
+    "id": 6,
+    "title": "Demon Days",
+    "artist": "Gorillaz",
+    "year": 2005,
+    "genre": "Alternativo / Hip Hop",
+    "image": "images/music/demon-days.webp",
+    "stock": 9,
+    "price": 15990
+  },
+  {
+    "id": 7,
+    "title": "Bocanada",
+    "artist": "Gustavo Cerati",
+    "year": 1999,
+    "genre": "Rock Alternativo / Electronica",
+    "image": "images/music/bocanada.webp",
+    "stock": 1,
+    "price": 17990
+  },
+  {
+    "id": 8,
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "year": 2013,
+    "genre": "Indie Rock",
+    "image": "images/music/am.webp",
+    "stock": 7,
+    "price": 14990
+  },
+  {
+    "id": 9,
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "year": 2015,
+    "genre": "Hip Hop / Jazz Rap",
+    "image": "images/music/to-pimp-a-butterfly.webp",
+    "stock": 9,
+    "price": 16990
+  },
+  {
+    "id": 10,
+    "title": "El Madrileño",
+    "artist": "C. Tangana",
+    "year": 2021,
+    "genre": "Pop / Flamenco / Urban",
+    "image": "images/music/el-madrilenio.webp",
+    "stock": 14,
+    "price": 15990
+  }
+]

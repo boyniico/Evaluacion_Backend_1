@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Book Catalog{% endblock %}
+{% block header_title %}Catálogo de Libros{% endblock %}
+{% block header_subtitle %}Una selección especial de novelas, autores e historias inolvidables.{% endblock %}
+
+{% block content %}
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    {% for book in books %}
+        {% include 'components/_card.html' with item=book detail_url='book_detail' %}
+    {% endfor %}
+</div>
+{% endblock %}
