@@ -5,7 +5,7 @@
 {% block header_subtitle %}Una selección especial de álbumes, artistas e historias sonoras.{% endblock %}
 
 {% block content %}
-<div class="row row-cols-1 row-cols-md-3 g-4">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
     {% for album in albums %}
         {% include 'components/_card.html' with item=album detail_url='music_detail' %}
     {% endfor %}
