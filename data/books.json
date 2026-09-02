@@ -98,5 +98,15 @@
     "image": "images/books/hopeless.jpg",
     "stock": 5,
     "price": 17990
+  },
+  {
+    "id": 11,
+    "title": "Papelucho",
+    "author": "Marcela Paz",
+    "year": 1947,
+    "genre": "Literatura Infantil",
+    "image": "images/books/papelucho.jpg",
+    "stock": 12,
+    "price": 8990
   }
 ]
